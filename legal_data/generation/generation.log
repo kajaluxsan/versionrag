@@ -1,0 +1,738 @@
+
+
+
+2026-04-30 01:08:03 [INFO] Loaded 30 acts, 29 acts with documents, 0 rows already done
+2026-04-30 01:08:03 [INFO] → ukpga-2018-12 [Content Retrieval] (prompt 13450 chars)
+2026-04-30 01:08:11 [INFO] ✓ ukpga-2018-12 [Content Retrieval] (1/150)
+2026-04-30 01:08:12 [INFO] → ukpga-2018-12 [Version-Specific Content Retrieval] (prompt 13672 chars)
+2026-04-30 01:08:24 [INFO] ✓ ukpga-2018-12 [Version-Specific Content Retrieval] (2/150)
+2026-04-30 01:08:25 [INFO] → ukpga-2018-12 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:08:34 [INFO] ✓ ukpga-2018-12 [Version Listing & Inquiry] (3/150)
+2026-04-30 01:08:34 [INFO] → ukpga-2018-12 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 01:08:44 [INFO] ✓ ukpga-2018-12 [Change Retrieval (e)] (4/150)
+2026-04-30 01:08:44 [INFO] → ukpga-2018-12 [Change Retrieval (i)] (prompt 10054 chars)
+2026-04-30 01:08:52 [INFO] ✓ ukpga-2018-12 [Change Retrieval (i)] (5/150)
+2026-04-30 01:08:52 [INFO] → ukpga-2010-15 [Content Retrieval] (prompt 13522 chars)
+2026-04-30 01:09:00 [INFO] ✓ ukpga-2010-15 [Content Retrieval] (6/150)
+2026-04-30 01:09:00 [INFO] → ukpga-2010-15 [Version-Specific Content Retrieval] (prompt 13744 chars)
+2026-04-30 01:09:17 [INFO] ✓ ukpga-2010-15 [Version-Specific Content Retrieval] (7/150)
+2026-04-30 01:09:18 [INFO] → ukpga-2010-15 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 01:09:27 [INFO] ✓ ukpga-2010-15 [Version Listing & Inquiry] (8/150)
+2026-04-30 01:09:27 [INFO] → ukpga-2010-15 [Change Retrieval (e)] (prompt 10283 chars)
+2026-04-30 01:09:37 [INFO] ✓ ukpga-2010-15 [Change Retrieval (e)] (9/150)
+2026-04-30 01:09:38 [INFO] → ukpga-2010-15 [Change Retrieval (i)] (prompt 10104 chars)
+2026-04-30 01:09:50 [INFO] ✓ ukpga-2010-15 [Change Retrieval (i)] (10/150)
+2026-04-30 01:09:50 [INFO] → ukpga-2023-50 [Content Retrieval] (prompt 13536 chars)
+2026-04-30 01:09:58 [INFO] ✓ ukpga-2023-50 [Content Retrieval] (11/150)
+2026-04-30 01:09:59 [INFO] → ukpga-2023-50 [Version-Specific Content Retrieval] (prompt 13758 chars)
+2026-04-30 01:10:14 [INFO] ✓ ukpga-2023-50 [Version-Specific Content Retrieval] (12/150)
+2026-04-30 01:10:15 [INFO] → ukpga-2023-50 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:10:24 [INFO] ✓ ukpga-2023-50 [Version Listing & Inquiry] (13/150)
+2026-04-30 01:10:24 [INFO] → ukpga-2023-50 [Change Retrieval (e)] (prompt 10304 chars)
+2026-04-30 01:10:33 [INFO] ✓ ukpga-2023-50 [Change Retrieval (e)] (14/150)
+2026-04-30 01:10:34 [INFO] → ukpga-2023-50 [Change Retrieval (i)] (prompt 10125 chars)
+2026-04-30 01:10:43 [INFO] ✓ ukpga-2023-50 [Change Retrieval (i)] (15/150)
+2026-04-30 01:10:43 [WARNING] ⚠ ukpga-2006-46 — no documents found, skipping all types
+2026-04-30 01:10:43 [INFO] → ukpga-1998-42 [Content Retrieval] (prompt 13525 chars)
+2026-04-30 01:10:51 [INFO] ✓ ukpga-1998-42 [Content Retrieval] (16/150)
+2026-04-30 01:10:52 [INFO] → ukpga-1998-42 [Version-Specific Content Retrieval] (prompt 13747 chars)
+2026-04-30 01:11:03 [INFO] ✓ ukpga-1998-42 [Version-Specific Content Retrieval] (17/150)
+2026-04-30 01:11:03 [INFO] → ukpga-1998-42 [Version Listing & Inquiry] (prompt 1385 chars)
+2026-04-30 01:11:09 [INFO] ✓ ukpga-1998-42 [Version Listing & Inquiry] (18/150)
+2026-04-30 01:11:09 [INFO] → ukpga-1998-42 [Change Retrieval (e)] (prompt 10264 chars)
+2026-04-30 01:11:23 [INFO] ✓ ukpga-1998-42 [Change Retrieval (e)] (19/150)
+2026-04-30 01:11:23 [INFO] → ukpga-1998-42 [Change Retrieval (i)] (prompt 10085 chars)
+2026-04-30 01:11:34 [INFO] ✓ ukpga-1998-42 [Change Retrieval (i)] (20/150)
+2026-04-30 01:11:35 [INFO] → ukpga-1983-20 [Content Retrieval] (prompt 13445 chars)
+2026-04-30 01:11:40 [INFO] ✓ ukpga-1983-20 [Content Retrieval] (21/150)
+2026-04-30 01:11:41 [INFO] → ukpga-1983-20 [Version-Specific Content Retrieval] (prompt 13667 chars)
+2026-04-30 01:11:49 [INFO] ✓ ukpga-1983-20 [Version-Specific Content Retrieval] (22/150)
+2026-04-30 01:11:50 [INFO] → ukpga-1983-20 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:12:00 [INFO] ✓ ukpga-1983-20 [Version Listing & Inquiry] (23/150)
+2026-04-30 01:12:00 [INFO] → ukpga-1983-20 [Change Retrieval (e)] (prompt 10229 chars)
+2026-04-30 01:12:13 [INFO] ✓ ukpga-1983-20 [Change Retrieval (e)] (24/150)
+2026-04-30 01:12:14 [INFO] → ukpga-1983-20 [Change Retrieval (i)] (prompt 10050 chars)
+2026-04-30 01:12:22 [INFO] ✓ ukpga-1983-20 [Change Retrieval (i)] (25/150)
+2026-04-30 01:12:22 [INFO] → ukpga-1989-41 [Content Retrieval] (prompt 13479 chars)
+2026-04-30 01:12:29 [INFO] ✓ ukpga-1989-41 [Content Retrieval] (26/150)
+2026-04-30 01:12:30 [INFO] → ukpga-1989-41 [Version-Specific Content Retrieval] (prompt 13701 chars)
+2026-04-30 01:12:41 [INFO] ✓ ukpga-1989-41 [Version-Specific Content Retrieval] (27/150)
+2026-04-30 01:12:41 [INFO] → ukpga-1989-41 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 01:12:47 [INFO] ✓ ukpga-1989-41 [Version Listing & Inquiry] (28/150)
+2026-04-30 01:12:48 [INFO] → ukpga-1989-41 [Change Retrieval (e)] (prompt 10190 chars)
+2026-04-30 01:13:01 [INFO] ✓ ukpga-1989-41 [Change Retrieval (e)] (29/150)
+2026-04-30 01:13:01 [INFO] → ukpga-1989-41 [Change Retrieval (i)] (prompt 10011 chars)
+2026-04-30 01:13:18 [INFO] ✓ ukpga-1989-41 [Change Retrieval (i)] (30/150)
+2026-04-30 01:13:18 [INFO] → ukpga-1984-60 [Content Retrieval] (prompt 13463 chars)
+2026-04-30 01:13:31 [INFO] ✓ ukpga-1984-60 [Content Retrieval] (31/150)
+2026-04-30 01:13:31 [INFO] → ukpga-1984-60 [Version-Specific Content Retrieval] (prompt 13685 chars)
+2026-04-30 01:13:43 [INFO] ✓ ukpga-1984-60 [Version-Specific Content Retrieval] (32/150)
+2026-04-30 01:13:44 [INFO] → ukpga-1984-60 [Version Listing & Inquiry] (prompt 1401 chars)
+2026-04-30 01:13:54 [INFO] ✓ ukpga-1984-60 [Version Listing & Inquiry] (33/150)
+2026-04-30 01:13:54 [INFO] → ukpga-1984-60 [Change Retrieval (e)] (prompt 10250 chars)
+2026-04-30 01:14:04 [INFO] ✓ ukpga-1984-60 [Change Retrieval (e)] (34/150)
+2026-04-30 01:14:04 [INFO] → ukpga-1984-60 [Change Retrieval (i)] (prompt 10071 chars)
+2026-04-30 01:14:15 [INFO] ✓ ukpga-1984-60 [Change Retrieval (i)] (35/150)
+2026-04-30 01:14:16 [INFO] → ukpga-1971-38 [Content Retrieval] (prompt 13422 chars)
+2026-04-30 01:14:31 [INFO] ✓ ukpga-1971-38 [Content Retrieval] (36/150)
+2026-04-30 01:14:31 [INFO] → ukpga-1971-38 [Version-Specific Content Retrieval] (prompt 13644 chars)
+2026-04-30 01:14:45 [INFO] ✓ ukpga-1971-38 [Version-Specific Content Retrieval] (37/150)
+2026-04-30 01:14:46 [INFO] → ukpga-1971-38 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:14:56 [INFO] ✓ ukpga-1971-38 [Version Listing & Inquiry] (38/150)
+2026-04-30 01:14:56 [INFO] → ukpga-1971-38 [Change Retrieval (e)] (prompt 10219 chars)
+2026-04-30 01:15:08 [INFO] ✓ ukpga-1971-38 [Change Retrieval (e)] (39/150)
+2026-04-30 01:15:08 [INFO] → ukpga-1971-38 [Change Retrieval (i)] (prompt 10040 chars)
+2026-04-30 01:15:17 [INFO] ✓ ukpga-1971-38 [Change Retrieval (i)] (40/150)
+2026-04-30 01:15:18 [INFO] → ukpga-1968-60 [Content Retrieval] (prompt 13436 chars)
+2026-04-30 01:15:26 [INFO] ✓ ukpga-1968-60 [Content Retrieval] (41/150)
+2026-04-30 01:15:26 [INFO] → ukpga-1968-60 [Version-Specific Content Retrieval] (prompt 13658 chars)
+2026-04-30 01:15:39 [INFO] ✓ ukpga-1968-60 [Version-Specific Content Retrieval] (42/150)
+2026-04-30 01:15:39 [INFO] → ukpga-1968-60 [Version Listing & Inquiry] (prompt 1378 chars)
+2026-04-30 01:15:49 [INFO] ✓ ukpga-1968-60 [Version Listing & Inquiry] (43/150)
+2026-04-30 01:15:49 [INFO] → ukpga-1968-60 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 01:16:00 [ERROR] ✗ ukpga-1968-60 [Change Retrieval (e)] — Expecting ',' delimiter: line 1 column 596 (char 595)
+2026-04-30 01:16:00 [INFO] → ukpga-1968-60 [Change Retrieval (i)] (prompt 10051 chars)
+2026-04-30 01:16:13 [INFO] ✓ ukpga-1968-60 [Change Retrieval (i)] (44/150)
+2026-04-30 01:16:13 [INFO] → ukpga-1979-54 [Content Retrieval] (prompt 13507 chars)
+2026-04-30 01:16:24 [INFO] ✓ ukpga-1979-54 [Content Retrieval] (45/150)
+2026-04-30 01:16:24 [INFO] → ukpga-1979-54 [Version-Specific Content Retrieval] (prompt 13737 chars)
+2026-04-30 01:16:31 [INFO] ✓ ukpga-1979-54 [Version-Specific Content Retrieval] (46/150)
+2026-04-30 01:16:31 [INFO] → ukpga-1979-54 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:16:42 [INFO] ✓ ukpga-1979-54 [Version Listing & Inquiry] (47/150)
+2026-04-30 01:16:42 [INFO] → ukpga-1979-54 [Change Retrieval (e)] (prompt 10247 chars)
+2026-04-30 01:16:50 [INFO] ✓ ukpga-1979-54 [Change Retrieval (e)] (48/150)
+2026-04-30 01:16:51 [INFO] → ukpga-1979-54 [Change Retrieval (i)] (prompt 10068 chars)
+2026-04-30 01:16:58 [INFO] ✓ ukpga-1979-54 [Change Retrieval (i)] (49/150)
+2026-04-30 01:16:59 [INFO] → ukpga-2015-15 [Content Retrieval] (prompt 13534 chars)
+2026-04-30 01:17:10 [INFO] ✓ ukpga-2015-15 [Content Retrieval] (50/150)
+2026-04-30 01:17:11 [INFO] → ukpga-2015-15 [Version-Specific Content Retrieval] (prompt 13756 chars)
+2026-04-30 01:17:23 [INFO] ✓ ukpga-2015-15 [Version-Specific Content Retrieval] (51/150)
+2026-04-30 01:17:23 [INFO] → ukpga-2015-15 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:17:29 [INFO] ✓ ukpga-2015-15 [Version Listing & Inquiry] (52/150)
+2026-04-30 01:17:29 [INFO] → ukpga-2015-15 [Change Retrieval (e)] (prompt 10244 chars)
+2026-04-30 01:17:37 [INFO] ✓ ukpga-2015-15 [Change Retrieval (e)] (53/150)
+2026-04-30 01:17:38 [INFO] → ukpga-2015-15 [Change Retrieval (i)] (prompt 10065 chars)
+2026-04-30 01:17:44 [INFO] ✓ ukpga-2015-15 [Change Retrieval (i)] (54/150)
+2026-04-30 01:17:44 [INFO] → ukpga-2015-30 [Content Retrieval] (prompt 13560 chars)
+2026-04-30 01:17:51 [INFO] ✓ ukpga-2015-30 [Content Retrieval] (55/150)
+2026-04-30 01:17:51 [INFO] → ukpga-2015-30 [Version-Specific Content Retrieval] (prompt 13769 chars)
+2026-04-30 01:18:04 [INFO] ✓ ukpga-2015-30 [Version-Specific Content Retrieval] (56/150)
+2026-04-30 01:18:05 [INFO] → ukpga-2015-30 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 01:18:16 [INFO] ✓ ukpga-2015-30 [Version Listing & Inquiry] (57/150)
+2026-04-30 01:18:16 [INFO] → ukpga-2015-30 [Change Retrieval (e)] (prompt 10274 chars)
+2026-04-30 01:18:28 [INFO] ✓ ukpga-2015-30 [Change Retrieval (e)] (58/150)
+2026-04-30 01:18:29 [INFO] → ukpga-2015-30 [Change Retrieval (i)] (prompt 10095 chars)
+2026-04-30 01:18:36 [INFO] ✓ ukpga-2015-30 [Change Retrieval (i)] (59/150)
+2026-04-30 01:18:37 [INFO] → ukpga-2010-23 [Content Retrieval] (prompt 13542 chars)
+2026-04-30 01:18:44 [INFO] ✓ ukpga-2010-23 [Content Retrieval] (60/150)
+2026-04-30 01:18:45 [INFO] → ukpga-2010-23 [Version-Specific Content Retrieval] (prompt 13768 chars)
+2026-04-30 01:18:54 [INFO] ✓ ukpga-2010-23 [Version-Specific Content Retrieval] (61/150)
+2026-04-30 01:18:54 [INFO] → ukpga-2010-23 [Version Listing & Inquiry] (prompt 1380 chars)
+2026-04-30 01:19:02 [INFO] ✓ ukpga-2010-23 [Version Listing & Inquiry] (62/150)
+2026-04-30 01:19:03 [INFO] → ukpga-2010-23 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 01:19:12 [INFO] ✓ ukpga-2010-23 [Change Retrieval (e)] (63/150)
+2026-04-30 01:19:13 [INFO] → ukpga-2010-23 [Change Retrieval (i)] (prompt 10051 chars)
+2026-04-30 01:19:25 [INFO] ✓ ukpga-2010-23 [Change Retrieval (i)] (64/150)
+2026-04-30 01:19:26 [INFO] → ukpga-2008-27 [Content Retrieval] (prompt 13519 chars)
+2026-04-30 01:19:36 [INFO] ✓ ukpga-2008-27 [Content Retrieval] (65/150)
+2026-04-30 01:19:37 [INFO] → ukpga-2008-27 [Version-Specific Content Retrieval] (prompt 13741 chars)
+2026-04-30 01:19:49 [INFO] ✓ ukpga-2008-27 [Version-Specific Content Retrieval] (66/150)
+2026-04-30 01:19:49 [INFO] → ukpga-2008-27 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 01:19:59 [INFO] ✓ ukpga-2008-27 [Version Listing & Inquiry] (67/150)
+2026-04-30 01:19:59 [INFO] → ukpga-2008-27 [Change Retrieval (e)] (prompt 10260 chars)
+2026-04-30 01:20:09 [INFO] ✓ ukpga-2008-27 [Change Retrieval (e)] (68/150)
+2026-04-30 01:20:09 [INFO] → ukpga-2008-27 [Change Retrieval (i)] (prompt 10081 chars)
+2026-04-30 01:20:17 [INFO] ✓ ukpga-2008-27 [Change Retrieval (i)] (69/150)
+2026-04-30 01:20:18 [INFO] → ukpga-2000-36 [Content Retrieval] (prompt 13490 chars)
+2026-04-30 01:20:28 [INFO] ✓ ukpga-2000-36 [Content Retrieval] (70/150)
+2026-04-30 01:20:28 [INFO] → ukpga-2000-36 [Version-Specific Content Retrieval] (prompt 13712 chars)
+2026-04-30 01:20:42 [INFO] ✓ ukpga-2000-36 [Version-Specific Content Retrieval] (71/150)
+2026-04-30 01:20:42 [INFO] → ukpga-2000-36 [Version Listing & Inquiry] (prompt 1395 chars)
+2026-04-30 01:20:51 [INFO] ✓ ukpga-2000-36 [Version Listing & Inquiry] (72/150)
+2026-04-30 01:20:52 [INFO] → ukpga-2000-36 [Change Retrieval (e)] (prompt 10251 chars)
+2026-04-30 01:21:02 [INFO] ✓ ukpga-2000-36 [Change Retrieval (e)] (73/150)
+2026-04-30 01:21:03 [INFO] → ukpga-2000-36 [Change Retrieval (i)] (prompt 10072 chars)
+2026-04-30 01:21:10 [INFO] ✓ ukpga-2000-36 [Change Retrieval (i)] (74/150)
+2026-04-30 01:21:11 [INFO] → ukpga-2000-11 [Content Retrieval] (prompt 13509 chars)
+2026-04-30 01:21:17 [INFO] ✓ ukpga-2000-11 [Content Retrieval] (75/150)
+2026-04-30 01:21:18 [INFO] → ukpga-2000-11 [Version-Specific Content Retrieval] (prompt 13731 chars)
+2026-04-30 01:21:32 [INFO] ✓ ukpga-2000-11 [Version-Specific Content Retrieval] (76/150)
+2026-04-30 01:21:33 [INFO] → ukpga-2000-11 [Version Listing & Inquiry] (prompt 1382 chars)
+2026-04-30 01:21:41 [INFO] ✓ ukpga-2000-11 [Version Listing & Inquiry] (77/150)
+2026-04-30 01:21:42 [INFO] → ukpga-2000-11 [Change Retrieval (e)] (prompt 10235 chars)
+2026-04-30 01:21:53 [INFO] ✓ ukpga-2000-11 [Change Retrieval (e)] (78/150)
+2026-04-30 01:21:53 [INFO] → ukpga-2000-11 [Change Retrieval (i)] (prompt 10056 chars)
+2026-04-30 01:22:05 [INFO] ✓ ukpga-2000-11 [Change Retrieval (i)] (79/150)
+2026-04-30 01:22:05 [INFO] → ukpga-2016-25 [Content Retrieval] (prompt 13503 chars)
+2026-04-30 01:22:12 [INFO] ✓ ukpga-2016-25 [Content Retrieval] (80/150)
+2026-04-30 01:22:12 [INFO] → ukpga-2016-25 [Version-Specific Content Retrieval] (prompt 13725 chars)
+2026-04-30 01:22:29 [INFO] ✓ ukpga-2016-25 [Version-Specific Content Retrieval] (81/150)
+2026-04-30 01:22:30 [INFO] → ukpga-2016-25 [Version Listing & Inquiry] (prompt 1393 chars)
+2026-04-30 01:22:39 [INFO] ✓ ukpga-2016-25 [Version Listing & Inquiry] (82/150)
+2026-04-30 01:22:40 [INFO] → ukpga-2016-25 [Change Retrieval (e)] (prompt 10289 chars)
+2026-04-30 01:22:51 [INFO] ✓ ukpga-2016-25 [Change Retrieval (e)] (83/150)
+2026-04-30 01:22:52 [INFO] → ukpga-2016-25 [Change Retrieval (i)] (prompt 10110 chars)
+2026-04-30 01:22:58 [INFO] ✓ ukpga-2016-25 [Change Retrieval (i)] (84/150)
+2026-04-30 01:22:59 [INFO] → ukpga-2005-9 [Content Retrieval] (prompt 13502 chars)
+2026-04-30 01:23:13 [INFO] ✓ ukpga-2005-9 [Content Retrieval] (85/150)
+2026-04-30 01:23:14 [INFO] → ukpga-2005-9 [Version-Specific Content Retrieval] (prompt 13724 chars)
+2026-04-30 01:23:23 [INFO] ✓ ukpga-2005-9 [Version-Specific Content Retrieval] (86/150)
+2026-04-30 01:23:24 [INFO] → ukpga-2005-9 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:23:34 [INFO] ✓ ukpga-2005-9 [Version Listing & Inquiry] (87/150)
+2026-04-30 01:23:34 [INFO] → ukpga-2005-9 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 01:23:43 [INFO] ✓ ukpga-2005-9 [Change Retrieval (e)] (88/150)
+2026-04-30 01:23:44 [INFO] → ukpga-2005-9 [Change Retrieval (i)] (prompt 10054 chars)
+2026-04-30 01:23:55 [INFO] ✓ ukpga-2005-9 [Change Retrieval (i)] (89/150)
+2026-04-30 01:23:56 [INFO] → ukpga-2012-7 [Content Retrieval] (prompt 13577 chars)
+2026-04-30 01:24:09 [INFO] ✓ ukpga-2012-7 [Content Retrieval] (90/150)
+2026-04-30 01:24:09 [INFO] → ukpga-2012-7 [Version-Specific Content Retrieval] (prompt 13799 chars)
+2026-04-30 01:24:22 [INFO] ✓ ukpga-2012-7 [Version-Specific Content Retrieval] (91/150)
+2026-04-30 01:24:23 [INFO] → ukpga-2012-7 [Version Listing & Inquiry] (prompt 1395 chars)
+2026-04-30 01:24:28 [INFO] ✓ ukpga-2012-7 [Version Listing & Inquiry] (92/150)
+2026-04-30 01:24:29 [INFO] → ukpga-2012-7 [Change Retrieval (e)] (prompt 10267 chars)
+2026-04-30 01:24:39 [INFO] ✓ ukpga-2012-7 [Change Retrieval (e)] (93/150)
+2026-04-30 01:24:40 [INFO] → ukpga-2012-7 [Change Retrieval (i)] (prompt 10088 chars)
+2026-04-30 01:24:48 [INFO] ✓ ukpga-2012-7 [Change Retrieval (i)] (94/150)
+2026-04-30 01:24:49 [INFO] → ukpga-2014-19 [Content Retrieval] (prompt 13455 chars)
+2026-04-30 01:24:58 [INFO] ✓ ukpga-2014-19 [Content Retrieval] (95/150)
+2026-04-30 01:24:59 [INFO] → ukpga-2014-19 [Version-Specific Content Retrieval] (prompt 13677 chars)
+2026-04-30 01:25:08 [INFO] ✓ ukpga-2014-19 [Version-Specific Content Retrieval] (96/150)
+2026-04-30 01:25:09 [INFO] → ukpga-2014-19 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 01:25:18 [INFO] ✓ ukpga-2014-19 [Version Listing & Inquiry] (97/150)
+2026-04-30 01:25:19 [INFO] → ukpga-2014-19 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 01:25:32 [INFO] ✓ ukpga-2014-19 [Change Retrieval (e)] (98/150)
+2026-04-30 01:25:32 [INFO] → ukpga-2014-19 [Change Retrieval (i)] (prompt 10054 chars)
+2026-04-30 01:25:44 [INFO] ✓ ukpga-2014-19 [Change Retrieval (i)] (99/150)
+2026-04-30 01:25:44 [INFO] → ukpga-2006-41 [Content Retrieval] (prompt 13472 chars)
+2026-04-30 01:25:57 [INFO] ✓ ukpga-2006-41 [Content Retrieval] (100/150)
+2026-04-30 01:25:57 [INFO] → ukpga-2006-41 [Version-Specific Content Retrieval] (prompt 13694 chars)
+2026-04-30 01:26:11 [INFO] ✓ ukpga-2006-41 [Version-Specific Content Retrieval] (101/150)
+2026-04-30 01:26:12 [INFO] → ukpga-2006-41 [Version Listing & Inquiry] (prompt 1396 chars)
+2026-04-30 01:26:22 [INFO] ✓ ukpga-2006-41 [Version Listing & Inquiry] (102/150)
+2026-04-30 01:26:22 [INFO] → ukpga-2006-41 [Change Retrieval (e)] (prompt 10239 chars)
+2026-04-30 01:26:30 [INFO] ✓ ukpga-2006-41 [Change Retrieval (e)] (103/150)
+2026-04-30 01:26:30 [INFO] → ukpga-2006-41 [Change Retrieval (i)] (prompt 10060 chars)
+2026-04-30 01:26:42 [INFO] ✓ ukpga-2006-41 [Change Retrieval (i)] (104/150)
+2026-04-30 01:26:43 [INFO] → ukpga-2002-32 [Content Retrieval] (prompt 13450 chars)
+2026-04-30 01:26:54 [INFO] ✓ ukpga-2002-32 [Content Retrieval] (105/150)
+2026-04-30 01:26:54 [INFO] → ukpga-2002-32 [Version-Specific Content Retrieval] (prompt 13672 chars)
+2026-04-30 01:27:11 [INFO] ✓ ukpga-2002-32 [Version-Specific Content Retrieval] (106/150)
+2026-04-30 01:27:11 [INFO] → ukpga-2002-32 [Version Listing & Inquiry] (prompt 1382 chars)
+2026-04-30 01:27:18 [INFO] ✓ ukpga-2002-32 [Version Listing & Inquiry] (107/150)
+2026-04-30 01:27:18 [INFO] → ukpga-2002-32 [Change Retrieval (e)] (prompt 10209 chars)
+2026-04-30 01:27:30 [INFO] ✓ ukpga-2002-32 [Change Retrieval (e)] (108/150)
+2026-04-30 01:27:31 [INFO] → ukpga-2002-32 [Change Retrieval (i)] (prompt 10030 chars)
+2026-04-30 01:27:41 [INFO] ✓ ukpga-2002-32 [Change Retrieval (i)] (109/150)
+2026-04-30 01:27:42 [INFO] → ukpga-2004-34 [Content Retrieval] (prompt 13446 chars)
+2026-04-30 01:27:49 [INFO] ✓ ukpga-2004-34 [Content Retrieval] (110/150)
+2026-04-30 01:27:49 [INFO] → ukpga-2004-34 [Version-Specific Content Retrieval] (prompt 13668 chars)
+2026-04-30 01:27:59 [INFO] ✓ ukpga-2004-34 [Version-Specific Content Retrieval] (111/150)
+2026-04-30 01:28:00 [INFO] → ukpga-2004-34 [Version Listing & Inquiry] (prompt 1380 chars)
+2026-04-30 01:28:05 [INFO] ✓ ukpga-2004-34 [Version Listing & Inquiry] (112/150)
+2026-04-30 01:28:05 [INFO] → ukpga-2004-34 [Change Retrieval (e)] (prompt 10270 chars)
+2026-04-30 01:28:22 [INFO] ✓ ukpga-2004-34 [Change Retrieval (e)] (113/150)
+2026-04-30 01:28:23 [INFO] → ukpga-2004-34 [Change Retrieval (i)] (prompt 10091 chars)
+2026-04-30 01:28:31 [INFO] ✓ ukpga-2004-34 [Change Retrieval (i)] (114/150)
+2026-04-30 01:28:31 [INFO] → ukpga-2014-22 [Content Retrieval] (prompt 13508 chars)
+2026-04-30 01:28:47 [INFO] ✓ ukpga-2014-22 [Content Retrieval] (115/150)
+2026-04-30 01:28:47 [INFO] → ukpga-2014-22 [Version-Specific Content Retrieval] (prompt 13730 chars)
+2026-04-30 01:29:04 [INFO] ✓ ukpga-2014-22 [Version-Specific Content Retrieval] (116/150)
+2026-04-30 01:29:05 [INFO] → ukpga-2014-22 [Version Listing & Inquiry] (prompt 1384 chars)
+2026-04-30 01:29:14 [INFO] ✓ ukpga-2014-22 [Version Listing & Inquiry] (117/150)
+2026-04-30 01:29:14 [INFO] → ukpga-2014-22 [Change Retrieval (e)] (prompt 10215 chars)
+2026-04-30 01:29:23 [INFO] ✓ ukpga-2014-22 [Change Retrieval (e)] (118/150)
+2026-04-30 01:29:24 [INFO] → ukpga-2014-22 [Change Retrieval (i)] (prompt 10036 chars)
+2026-04-30 01:29:31 [INFO] ✓ ukpga-2014-22 [Change Retrieval (i)] (119/150)
+2026-04-30 01:29:32 [INFO] → ukpga-1994-26 [Content Retrieval] (prompt 13456 chars)
+2026-04-30 01:29:39 [INFO] ✓ ukpga-1994-26 [Content Retrieval] (120/150)
+2026-04-30 01:29:40 [INFO] → ukpga-1994-26 [Version-Specific Content Retrieval] (prompt 13680 chars)
+2026-04-30 01:29:50 [INFO] ✓ ukpga-1994-26 [Version-Specific Content Retrieval] (121/150)
+2026-04-30 01:29:51 [INFO] → ukpga-1994-26 [Version Listing & Inquiry] (prompt 1384 chars)
+2026-04-30 01:30:01 [INFO] ✓ ukpga-1994-26 [Version Listing & Inquiry] (122/150)
+2026-04-30 01:30:01 [INFO] → ukpga-1994-26 [Change Retrieval (e)] (prompt 10208 chars)
+2026-04-30 01:30:11 [INFO] ✓ ukpga-1994-26 [Change Retrieval (e)] (123/150)
+2026-04-30 01:30:12 [INFO] → ukpga-1994-26 [Change Retrieval (i)] (prompt 10029 chars)
+2026-04-30 01:30:24 [INFO] ✓ ukpga-1994-26 [Change Retrieval (i)] (124/150)
+2026-04-30 01:30:25 [INFO] → ukpga-2003-21 [Content Retrieval] (prompt 13398 chars)
+2026-04-30 01:30:36 [INFO] ✓ ukpga-2003-21 [Content Retrieval] (125/150)
+2026-04-30 01:30:37 [INFO] → ukpga-2003-21 [Version-Specific Content Retrieval] (prompt 13620 chars)
+2026-04-30 01:30:52 [INFO] ✓ ukpga-2003-21 [Version-Specific Content Retrieval] (126/150)
+2026-04-30 01:30:53 [INFO] → ukpga-2003-21 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 01:31:02 [INFO] ✓ ukpga-2003-21 [Version Listing & Inquiry] (127/150)
+2026-04-30 01:31:03 [INFO] → ukpga-2003-21 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 01:31:11 [INFO] ✓ ukpga-2003-21 [Change Retrieval (e)] (128/150)
+2026-04-30 01:31:11 [INFO] → ukpga-2003-21 [Change Retrieval (i)] (prompt 10051 chars)
+2026-04-30 01:31:23 [INFO] ✓ ukpga-2003-21 [Change Retrieval (i)] (129/150)
+2026-04-30 01:31:24 [INFO] → ukpga-1996-18 [Content Retrieval] (prompt 13465 chars)
+2026-04-30 01:31:30 [INFO] ✓ ukpga-1996-18 [Content Retrieval] (130/150)
+2026-04-30 01:31:30 [INFO] → ukpga-1996-18 [Version-Specific Content Retrieval] (prompt 13687 chars)
+2026-04-30 01:31:45 [INFO] ✓ ukpga-1996-18 [Version-Specific Content Retrieval] (131/150)
+2026-04-30 01:31:45 [INFO] → ukpga-1996-18 [Version Listing & Inquiry] (prompt 1390 chars)
+2026-04-30 01:31:51 [INFO] ✓ ukpga-1996-18 [Version Listing & Inquiry] (132/150)
+2026-04-30 01:31:51 [INFO] → ukpga-1996-18 [Change Retrieval (e)] (prompt 10252 chars)
+2026-04-30 01:32:01 [INFO] ✓ ukpga-1996-18 [Change Retrieval (e)] (133/150)
+2026-04-30 01:32:02 [INFO] → ukpga-1996-18 [Change Retrieval (i)] (prompt 10073 chars)
+2026-04-30 01:32:09 [INFO] ✓ ukpga-1996-18 [Change Retrieval (i)] (134/150)
+2026-04-30 01:32:09 [INFO] → ukpga-1998-11 [Content Retrieval] (prompt 13495 chars)
+2026-04-30 01:32:17 [INFO] ✓ ukpga-1998-11 [Content Retrieval] (135/150)
+2026-04-30 01:32:17 [INFO] → ukpga-1998-11 [Version-Specific Content Retrieval] (prompt 13717 chars)
+2026-04-30 01:32:25 [INFO] ✓ ukpga-1998-11 [Version-Specific Content Retrieval] (136/150)
+2026-04-30 01:32:26 [INFO] → ukpga-1998-11 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:32:34 [INFO] ✓ ukpga-1998-11 [Version Listing & Inquiry] (137/150)
+2026-04-30 01:32:34 [INFO] → ukpga-1998-11 [Change Retrieval (e)] (prompt 8085 chars)
+2026-04-30 01:32:43 [INFO] ✓ ukpga-1998-11 [Change Retrieval (e)] (138/150)
+2026-04-30 01:32:43 [INFO] → ukpga-1998-11 [Change Retrieval (i)] (prompt 7906 chars)
+2026-04-30 01:32:55 [INFO] ✓ ukpga-1998-11 [Change Retrieval (i)] (139/150)
+2026-04-30 01:32:55 [INFO] → ukpga-2007-15 [Content Retrieval] (prompt 13513 chars)
+2026-04-30 01:33:06 [INFO] ✓ ukpga-2007-15 [Content Retrieval] (140/150)
+2026-04-30 01:33:07 [INFO] → ukpga-2007-15 [Version-Specific Content Retrieval] (prompt 13735 chars)
+2026-04-30 01:33:27 [INFO] ✓ ukpga-2007-15 [Version-Specific Content Retrieval] (141/150)
+2026-04-30 01:33:28 [INFO] → ukpga-2007-15 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:33:36 [INFO] ✓ ukpga-2007-15 [Version Listing & Inquiry] (142/150)
+2026-04-30 01:33:37 [INFO] → ukpga-2007-15 [Change Retrieval (e)] (prompt 10243 chars)
+2026-04-30 01:33:52 [INFO] ✓ ukpga-2007-15 [Change Retrieval (e)] (143/150)
+2026-04-30 01:33:52 [INFO] → ukpga-2007-15 [Change Retrieval (i)] (prompt 10064 chars)
+2026-04-30 01:34:02 [INFO] ✓ ukpga-2007-15 [Change Retrieval (i)] (144/150)
+2026-04-30 01:34:03 [INFO] Done. generated=144, skipped=0, failed=1, target=150
+2026-04-30 01:44:25 [INFO] Loaded 30 acts, 29 acts with documents, 144 rows already done
+2026-04-30 01:44:25 [INFO] · ukpga-2018-12 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2018-12 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2018-12 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2018-12 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2018-12 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2010-15 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2010-15 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2010-15 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2010-15 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2010-15 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2023-50 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2023-50 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2023-50 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2023-50 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-2023-50 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [WARNING] ⚠ ukpga-2006-46 — no documents found, skipping all types
+2026-04-30 01:44:25 [INFO] · ukpga-1998-42 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1998-42 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1998-42 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1998-42 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1998-42 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1983-20 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1983-20 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1983-20 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1983-20 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1983-20 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1989-41 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1989-41 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1989-41 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1989-41 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1989-41 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1984-60 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1984-60 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1984-60 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1984-60 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1984-60 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1971-38 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1971-38 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1971-38 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1971-38 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1971-38 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1968-60 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1968-60 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] · ukpga-1968-60 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:25 [INFO] → ukpga-1968-60 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 01:44:36 [INFO] ✓ ukpga-1968-60 [Change Retrieval (e)] (44/150)
+2026-04-30 01:44:37 [INFO] · ukpga-1968-60 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1979-54 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1979-54 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1979-54 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1979-54 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1979-54 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-15 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-15 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-15 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-15 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-15 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-30 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-30 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-30 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-30 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2015-30 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2010-23 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2010-23 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2010-23 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2010-23 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2010-23 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2008-27 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2008-27 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2008-27 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2008-27 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2008-27 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-36 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-36 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-36 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-36 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-36 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-11 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-11 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-11 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-11 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2000-11 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2016-25 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2016-25 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2016-25 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2016-25 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2016-25 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2005-9 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2005-9 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2005-9 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2005-9 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2005-9 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2012-7 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2012-7 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2012-7 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2012-7 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2012-7 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-19 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-19 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-19 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-19 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-19 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2006-41 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2006-41 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2006-41 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2006-41 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2006-41 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2002-32 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2002-32 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2002-32 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2002-32 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2002-32 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2004-34 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2004-34 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2004-34 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2004-34 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2004-34 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-22 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-22 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-22 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-22 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2014-22 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1994-26 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1994-26 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1994-26 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1994-26 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1994-26 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2003-21 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2003-21 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2003-21 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2003-21 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2003-21 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1996-18 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1996-18 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1996-18 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1996-18 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1996-18 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1998-11 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1998-11 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1998-11 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1998-11 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-1998-11 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2007-15 [Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2007-15 [Version-Specific Content Retrieval] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2007-15 [Version Listing & Inquiry] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2007-15 [Change Retrieval (e)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] · ukpga-2007-15 [Change Retrieval (i)] — already in csv, skipping
+2026-04-30 01:44:37 [INFO] Done. generated=1, skipped=144, failed=0, target=150
+2026-04-30 01:55:15 [INFO] Loaded 30 acts, 29 acts with documents, 0 rows already done
+2026-04-30 01:55:15 [INFO] → ukpga-2018-12 [Content Retrieval] (prompt 13450 chars)
+2026-04-30 01:55:26 [INFO] ✓ ukpga-2018-12 [Content Retrieval] (1/150)
+2026-04-30 01:55:27 [INFO] → ukpga-2018-12 [Version-Specific Content Retrieval] (prompt 13672 chars)
+2026-04-30 01:55:40 [INFO] ✓ ukpga-2018-12 [Version-Specific Content Retrieval] (2/150)
+2026-04-30 01:55:40 [INFO] → ukpga-2018-12 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 01:55:49 [INFO] ✓ ukpga-2018-12 [Version Listing & Inquiry] (3/150)
+2026-04-30 01:55:50 [INFO] → ukpga-2018-12 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 01:55:58 [INFO] ✓ ukpga-2018-12 [Change Retrieval (e)] (4/150)
+2026-04-30 01:55:58 [INFO] → ukpga-2018-12 [Change Retrieval (i)] (prompt 15101 chars)
+2026-04-30 01:56:11 [INFO] ✓ ukpga-2018-12 [Change Retrieval (i)] (5/150)
+2026-04-30 01:56:11 [INFO] → ukpga-2010-15 [Content Retrieval] (prompt 13522 chars)
+2026-04-30 01:56:22 [INFO] ✓ ukpga-2010-15 [Content Retrieval] (6/150)
+2026-04-30 01:56:23 [INFO] → ukpga-2010-15 [Version-Specific Content Retrieval] (prompt 13744 chars)
+2026-04-30 01:56:32 [INFO] ✓ ukpga-2010-15 [Version-Specific Content Retrieval] (7/150)
+2026-04-30 01:56:32 [INFO] → ukpga-2010-15 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 01:56:41 [INFO] ✓ ukpga-2010-15 [Version Listing & Inquiry] (8/150)
+2026-04-30 01:56:42 [INFO] → ukpga-2010-15 [Change Retrieval (e)] (prompt 10283 chars)
+2026-04-30 01:56:55 [INFO] ✓ ukpga-2010-15 [Change Retrieval (e)] (9/150)
+2026-04-30 01:56:56 [INFO] → ukpga-2010-15 [Change Retrieval (i)] (prompt 15131 chars)
+2026-04-30 01:57:03 [INFO] ✓ ukpga-2010-15 [Change Retrieval (i)] (10/150)
+2026-04-30 01:57:03 [INFO] → ukpga-2023-50 [Content Retrieval] (prompt 13536 chars)
+2026-04-30 01:57:11 [INFO] ✓ ukpga-2023-50 [Content Retrieval] (11/150)
+2026-04-30 01:57:12 [INFO] → ukpga-2023-50 [Version-Specific Content Retrieval] (prompt 13758 chars)
+2026-04-30 01:57:26 [INFO] ✓ ukpga-2023-50 [Version-Specific Content Retrieval] (12/150)
+2026-04-30 01:57:26 [INFO] → ukpga-2023-50 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:57:34 [INFO] ✓ ukpga-2023-50 [Version Listing & Inquiry] (13/150)
+2026-04-30 01:57:35 [INFO] → ukpga-2023-50 [Change Retrieval (e)] (prompt 10304 chars)
+2026-04-30 01:57:44 [INFO] ✓ ukpga-2023-50 [Change Retrieval (e)] (14/150)
+2026-04-30 01:57:45 [INFO] → ukpga-2023-50 [Change Retrieval (i)] (prompt 15174 chars)
+2026-04-30 01:57:52 [INFO] ✓ ukpga-2023-50 [Change Retrieval (i)] (15/150)
+2026-04-30 01:57:52 [WARNING] ⚠ ukpga-2006-46 — no documents found, skipping all types
+2026-04-30 01:57:52 [INFO] → ukpga-1998-42 [Content Retrieval] (prompt 13525 chars)
+2026-04-30 01:58:01 [INFO] ✓ ukpga-1998-42 [Content Retrieval] (16/150)
+2026-04-30 01:58:01 [INFO] → ukpga-1998-42 [Version-Specific Content Retrieval] (prompt 13747 chars)
+2026-04-30 01:58:15 [INFO] ✓ ukpga-1998-42 [Version-Specific Content Retrieval] (17/150)
+2026-04-30 01:58:16 [INFO] → ukpga-1998-42 [Version Listing & Inquiry] (prompt 1385 chars)
+2026-04-30 01:58:25 [INFO] ✓ ukpga-1998-42 [Version Listing & Inquiry] (18/150)
+2026-04-30 01:58:26 [INFO] → ukpga-1998-42 [Change Retrieval (e)] (prompt 10264 chars)
+2026-04-30 01:58:38 [INFO] ✓ ukpga-1998-42 [Change Retrieval (e)] (19/150)
+2026-04-30 01:58:39 [INFO] → ukpga-1998-42 [Change Retrieval (i)] (prompt 15092 chars)
+2026-04-30 01:58:51 [INFO] ✓ ukpga-1998-42 [Change Retrieval (i)] (20/150)
+2026-04-30 01:58:52 [INFO] → ukpga-1983-20 [Content Retrieval] (prompt 13445 chars)
+2026-04-30 01:58:57 [INFO] ✓ ukpga-1983-20 [Content Retrieval] (21/150)
+2026-04-30 01:58:58 [INFO] → ukpga-1983-20 [Version-Specific Content Retrieval] (prompt 13667 chars)
+2026-04-30 01:59:11 [INFO] ✓ ukpga-1983-20 [Version-Specific Content Retrieval] (22/150)
+2026-04-30 01:59:11 [INFO] → ukpga-1983-20 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 01:59:16 [INFO] ✓ ukpga-1983-20 [Version Listing & Inquiry] (23/150)
+2026-04-30 01:59:17 [INFO] → ukpga-1983-20 [Change Retrieval (e)] (prompt 10229 chars)
+2026-04-30 01:59:25 [INFO] ✓ ukpga-1983-20 [Change Retrieval (e)] (24/150)
+2026-04-30 01:59:25 [INFO] → ukpga-1983-20 [Change Retrieval (i)] (prompt 15088 chars)
+2026-04-30 01:59:32 [INFO] ✓ ukpga-1983-20 [Change Retrieval (i)] (25/150)
+2026-04-30 01:59:33 [INFO] → ukpga-1989-41 [Content Retrieval] (prompt 13479 chars)
+2026-04-30 01:59:43 [INFO] ✓ ukpga-1989-41 [Content Retrieval] (26/150)
+2026-04-30 01:59:44 [INFO] → ukpga-1989-41 [Version-Specific Content Retrieval] (prompt 13701 chars)
+2026-04-30 01:59:54 [INFO] ✓ ukpga-1989-41 [Version-Specific Content Retrieval] (27/150)
+2026-04-30 01:59:54 [INFO] → ukpga-1989-41 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 02:00:03 [INFO] ✓ ukpga-1989-41 [Version Listing & Inquiry] (28/150)
+2026-04-30 02:00:04 [INFO] → ukpga-1989-41 [Change Retrieval (e)] (prompt 10190 chars)
+2026-04-30 02:00:15 [INFO] ✓ ukpga-1989-41 [Change Retrieval (e)] (29/150)
+2026-04-30 02:00:15 [INFO] → ukpga-1989-41 [Change Retrieval (i)] (prompt 12866 chars)
+2026-04-30 02:00:51 [INFO] ✓ ukpga-1989-41 [Change Retrieval (i)] (30/150)
+2026-04-30 02:00:52 [INFO] → ukpga-1984-60 [Content Retrieval] (prompt 13463 chars)
+2026-04-30 02:01:03 [INFO] ✓ ukpga-1984-60 [Content Retrieval] (31/150)
+2026-04-30 02:01:03 [INFO] → ukpga-1984-60 [Version-Specific Content Retrieval] (prompt 13685 chars)
+2026-04-30 02:01:16 [INFO] ✓ ukpga-1984-60 [Version-Specific Content Retrieval] (32/150)
+2026-04-30 02:01:17 [INFO] → ukpga-1984-60 [Version Listing & Inquiry] (prompt 1401 chars)
+2026-04-30 02:01:25 [INFO] ✓ ukpga-1984-60 [Version Listing & Inquiry] (33/150)
+2026-04-30 02:01:26 [INFO] → ukpga-1984-60 [Change Retrieval (e)] (prompt 10250 chars)
+2026-04-30 02:01:37 [INFO] ✓ ukpga-1984-60 [Change Retrieval (e)] (34/150)
+2026-04-30 02:01:38 [INFO] → ukpga-1984-60 [Change Retrieval (i)] (prompt 15097 chars)
+2026-04-30 02:01:44 [INFO] ✓ ukpga-1984-60 [Change Retrieval (i)] (35/150)
+2026-04-30 02:01:45 [INFO] → ukpga-1971-38 [Content Retrieval] (prompt 13422 chars)
+2026-04-30 02:01:56 [INFO] ✓ ukpga-1971-38 [Content Retrieval] (36/150)
+2026-04-30 02:01:56 [INFO] → ukpga-1971-38 [Version-Specific Content Retrieval] (prompt 13644 chars)
+2026-04-30 02:02:11 [INFO] ✓ ukpga-1971-38 [Version-Specific Content Retrieval] (37/150)
+2026-04-30 02:02:11 [INFO] → ukpga-1971-38 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 02:02:21 [INFO] ✓ ukpga-1971-38 [Version Listing & Inquiry] (38/150)
+2026-04-30 02:02:22 [INFO] → ukpga-1971-38 [Change Retrieval (e)] (prompt 10219 chars)
+2026-04-30 02:02:31 [INFO] ✓ ukpga-1971-38 [Change Retrieval (e)] (39/150)
+2026-04-30 02:02:32 [INFO] → ukpga-1971-38 [Change Retrieval (i)] (prompt 15152 chars)
+2026-04-30 02:02:41 [INFO] ✓ ukpga-1971-38 [Change Retrieval (i)] (40/150)
+2026-04-30 02:02:41 [INFO] → ukpga-1968-60 [Content Retrieval] (prompt 13436 chars)
+2026-04-30 02:02:51 [INFO] ✓ ukpga-1968-60 [Content Retrieval] (41/150)
+2026-04-30 02:02:52 [INFO] → ukpga-1968-60 [Version-Specific Content Retrieval] (prompt 13658 chars)
+2026-04-30 02:03:02 [INFO] ✓ ukpga-1968-60 [Version-Specific Content Retrieval] (42/150)
+2026-04-30 02:03:03 [INFO] → ukpga-1968-60 [Version Listing & Inquiry] (prompt 1378 chars)
+2026-04-30 02:03:12 [INFO] ✓ ukpga-1968-60 [Version Listing & Inquiry] (43/150)
+2026-04-30 02:03:13 [INFO] → ukpga-1968-60 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 02:03:24 [INFO] ✓ ukpga-1968-60 [Change Retrieval (e)] (44/150)
+2026-04-30 02:03:25 [INFO] → ukpga-1968-60 [Change Retrieval (i)] (prompt 14416 chars)
+2026-04-30 02:03:40 [INFO] ✓ ukpga-1968-60 [Change Retrieval (i)] (45/150)
+2026-04-30 02:03:41 [INFO] → ukpga-1979-54 [Content Retrieval] (prompt 13507 chars)
+2026-04-30 02:03:51 [INFO] ✓ ukpga-1979-54 [Content Retrieval] (46/150)
+2026-04-30 02:03:52 [INFO] → ukpga-1979-54 [Version-Specific Content Retrieval] (prompt 13737 chars)
+2026-04-30 02:04:00 [INFO] ✓ ukpga-1979-54 [Version-Specific Content Retrieval] (47/150)
+2026-04-30 02:04:00 [INFO] → ukpga-1979-54 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 02:04:09 [INFO] ✓ ukpga-1979-54 [Version Listing & Inquiry] (48/150)
+2026-04-30 02:04:10 [INFO] → ukpga-1979-54 [Change Retrieval (e)] (prompt 10247 chars)
+2026-04-30 02:04:22 [INFO] ✓ ukpga-1979-54 [Change Retrieval (e)] (49/150)
+2026-04-30 02:04:22 [INFO] → ukpga-1979-54 [Change Retrieval (i)] (prompt 14184 chars)
+2026-04-30 02:04:28 [INFO] ✓ ukpga-1979-54 [Change Retrieval (i)] (50/150)
+2026-04-30 02:04:29 [INFO] → ukpga-2015-15 [Content Retrieval] (prompt 13534 chars)
+2026-04-30 02:04:40 [INFO] ✓ ukpga-2015-15 [Content Retrieval] (51/150)
+2026-04-30 02:04:40 [INFO] → ukpga-2015-15 [Version-Specific Content Retrieval] (prompt 13756 chars)
+2026-04-30 02:04:51 [INFO] ✓ ukpga-2015-15 [Version-Specific Content Retrieval] (52/150)
+2026-04-30 02:04:52 [INFO] → ukpga-2015-15 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 02:04:57 [INFO] ✓ ukpga-2015-15 [Version Listing & Inquiry] (53/150)
+2026-04-30 02:04:57 [INFO] → ukpga-2015-15 [Change Retrieval (e)] (prompt 10244 chars)
+2026-04-30 02:05:10 [INFO] ✓ ukpga-2015-15 [Change Retrieval (e)] (54/150)
+2026-04-30 02:05:11 [INFO] → ukpga-2015-15 [Change Retrieval (i)] (prompt 15066 chars)
+2026-04-30 02:05:26 [INFO] ✓ ukpga-2015-15 [Change Retrieval (i)] (55/150)
+2026-04-30 02:05:26 [INFO] → ukpga-2015-30 [Content Retrieval] (prompt 13560 chars)
+2026-04-30 02:05:37 [INFO] ✓ ukpga-2015-30 [Content Retrieval] (56/150)
+2026-04-30 02:05:37 [INFO] → ukpga-2015-30 [Version-Specific Content Retrieval] (prompt 13769 chars)
+2026-04-30 02:05:48 [INFO] ✓ ukpga-2015-30 [Version-Specific Content Retrieval] (57/150)
+2026-04-30 02:05:48 [INFO] → ukpga-2015-30 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 02:05:53 [INFO] ✓ ukpga-2015-30 [Version Listing & Inquiry] (58/150)
+2026-04-30 02:05:54 [INFO] → ukpga-2015-30 [Change Retrieval (e)] (prompt 10274 chars)
+2026-04-30 02:06:08 [INFO] ✓ ukpga-2015-30 [Change Retrieval (e)] (59/150)
+2026-04-30 02:06:08 [INFO] → ukpga-2015-30 [Change Retrieval (i)] (prompt 15157 chars)
+2026-04-30 02:06:20 [INFO] ✓ ukpga-2015-30 [Change Retrieval (i)] (60/150)
+2026-04-30 02:06:20 [INFO] → ukpga-2010-23 [Content Retrieval] (prompt 13542 chars)
+2026-04-30 02:06:32 [INFO] ✓ ukpga-2010-23 [Content Retrieval] (61/150)
+2026-04-30 02:06:33 [INFO] → ukpga-2010-23 [Version-Specific Content Retrieval] (prompt 13768 chars)
+2026-04-30 02:06:44 [INFO] ✓ ukpga-2010-23 [Version-Specific Content Retrieval] (62/150)
+2026-04-30 02:06:45 [INFO] → ukpga-2010-23 [Version Listing & Inquiry] (prompt 1380 chars)
+2026-04-30 02:06:54 [INFO] ✓ ukpga-2010-23 [Version Listing & Inquiry] (63/150)
+2026-04-30 02:06:54 [INFO] → ukpga-2010-23 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 02:07:04 [INFO] ✓ ukpga-2010-23 [Change Retrieval (e)] (64/150)
+2026-04-30 02:07:04 [INFO] → ukpga-2010-23 [Change Retrieval (i)] (prompt 11608 chars)
+2026-04-30 02:07:13 [INFO] ✓ ukpga-2010-23 [Change Retrieval (i)] (65/150)
+2026-04-30 02:07:14 [INFO] → ukpga-2008-27 [Content Retrieval] (prompt 13519 chars)
+2026-04-30 02:07:22 [INFO] ✓ ukpga-2008-27 [Content Retrieval] (66/150)
+2026-04-30 02:07:22 [INFO] → ukpga-2008-27 [Version-Specific Content Retrieval] (prompt 13741 chars)
+2026-04-30 02:07:30 [INFO] ✓ ukpga-2008-27 [Version-Specific Content Retrieval] (67/150)
+2026-04-30 02:07:30 [INFO] → ukpga-2008-27 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 02:07:39 [INFO] ✓ ukpga-2008-27 [Version Listing & Inquiry] (68/150)
+2026-04-30 02:07:39 [INFO] → ukpga-2008-27 [Change Retrieval (e)] (prompt 10260 chars)
+2026-04-30 02:07:53 [INFO] ✓ ukpga-2008-27 [Change Retrieval (e)] (69/150)
+2026-04-30 02:07:53 [INFO] → ukpga-2008-27 [Change Retrieval (i)] (prompt 11680 chars)
+2026-04-30 02:08:00 [INFO] ✓ ukpga-2008-27 [Change Retrieval (i)] (70/150)
+2026-04-30 02:08:01 [INFO] → ukpga-2000-36 [Content Retrieval] (prompt 13490 chars)
+2026-04-30 02:08:07 [INFO] ✓ ukpga-2000-36 [Content Retrieval] (71/150)
+2026-04-30 02:08:08 [INFO] → ukpga-2000-36 [Version-Specific Content Retrieval] (prompt 13712 chars)
+2026-04-30 02:08:17 [INFO] ✓ ukpga-2000-36 [Version-Specific Content Retrieval] (72/150)
+2026-04-30 02:08:17 [INFO] → ukpga-2000-36 [Version Listing & Inquiry] (prompt 1395 chars)
+2026-04-30 02:08:22 [INFO] ✓ ukpga-2000-36 [Version Listing & Inquiry] (73/150)
+2026-04-30 02:08:23 [INFO] → ukpga-2000-36 [Change Retrieval (e)] (prompt 10251 chars)
+2026-04-30 02:08:35 [INFO] ✓ ukpga-2000-36 [Change Retrieval (e)] (74/150)
+2026-04-30 02:08:36 [INFO] → ukpga-2000-36 [Change Retrieval (i)] (prompt 15119 chars)
+2026-04-30 02:08:48 [INFO] ✓ ukpga-2000-36 [Change Retrieval (i)] (75/150)
+2026-04-30 02:08:49 [INFO] → ukpga-2000-11 [Content Retrieval] (prompt 13509 chars)
+2026-04-30 02:09:01 [INFO] ✓ ukpga-2000-11 [Content Retrieval] (76/150)
+2026-04-30 02:09:01 [INFO] → ukpga-2000-11 [Version-Specific Content Retrieval] (prompt 13731 chars)
+2026-04-30 02:09:11 [INFO] ✓ ukpga-2000-11 [Version-Specific Content Retrieval] (77/150)
+2026-04-30 02:09:12 [INFO] → ukpga-2000-11 [Version Listing & Inquiry] (prompt 1382 chars)
+2026-04-30 02:09:21 [INFO] ✓ ukpga-2000-11 [Version Listing & Inquiry] (78/150)
+2026-04-30 02:09:22 [INFO] → ukpga-2000-11 [Change Retrieval (e)] (prompt 10235 chars)
+2026-04-30 02:09:34 [INFO] ✓ ukpga-2000-11 [Change Retrieval (e)] (79/150)
+2026-04-30 02:09:34 [INFO] → ukpga-2000-11 [Change Retrieval (i)] (prompt 15105 chars)
+2026-04-30 02:09:42 [INFO] ✓ ukpga-2000-11 [Change Retrieval (i)] (80/150)
+2026-04-30 02:09:42 [INFO] → ukpga-2016-25 [Content Retrieval] (prompt 13503 chars)
+2026-04-30 02:09:53 [INFO] ✓ ukpga-2016-25 [Content Retrieval] (81/150)
+2026-04-30 02:09:53 [INFO] → ukpga-2016-25 [Version-Specific Content Retrieval] (prompt 13725 chars)
+2026-04-30 02:10:05 [INFO] ✓ ukpga-2016-25 [Version-Specific Content Retrieval] (82/150)
+2026-04-30 02:10:05 [INFO] → ukpga-2016-25 [Version Listing & Inquiry] (prompt 1393 chars)
+2026-04-30 02:10:15 [INFO] ✓ ukpga-2016-25 [Version Listing & Inquiry] (83/150)
+2026-04-30 02:10:16 [INFO] → ukpga-2016-25 [Change Retrieval (e)] (prompt 10289 chars)
+2026-04-30 02:10:24 [INFO] ✓ ukpga-2016-25 [Change Retrieval (e)] (84/150)
+2026-04-30 02:10:25 [INFO] → ukpga-2016-25 [Change Retrieval (i)] (prompt 15112 chars)
+2026-04-30 02:10:33 [INFO] ✓ ukpga-2016-25 [Change Retrieval (i)] (85/150)
+2026-04-30 02:10:34 [INFO] → ukpga-2005-9 [Content Retrieval] (prompt 13502 chars)
+2026-04-30 02:10:44 [INFO] ✓ ukpga-2005-9 [Content Retrieval] (86/150)
+2026-04-30 02:10:45 [INFO] → ukpga-2005-9 [Version-Specific Content Retrieval] (prompt 13724 chars)
+2026-04-30 02:10:58 [INFO] ✓ ukpga-2005-9 [Version-Specific Content Retrieval] (87/150)
+2026-04-30 02:10:59 [INFO] → ukpga-2005-9 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 02:11:04 [INFO] ✓ ukpga-2005-9 [Version Listing & Inquiry] (88/150)
+2026-04-30 02:11:05 [INFO] → ukpga-2005-9 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 02:11:18 [INFO] ✓ ukpga-2005-9 [Change Retrieval (e)] (89/150)
+2026-04-30 02:11:18 [INFO] → ukpga-2005-9 [Change Retrieval (i)] (prompt 14919 chars)
+2026-04-30 02:11:26 [INFO] ✓ ukpga-2005-9 [Change Retrieval (i)] (90/150)
+2026-04-30 02:11:26 [INFO] → ukpga-2012-7 [Content Retrieval] (prompt 13577 chars)
+2026-04-30 02:11:37 [INFO] ✓ ukpga-2012-7 [Content Retrieval] (91/150)
+2026-04-30 02:11:38 [INFO] → ukpga-2012-7 [Version-Specific Content Retrieval] (prompt 13799 chars)
+2026-04-30 02:11:55 [INFO] ✓ ukpga-2012-7 [Version-Specific Content Retrieval] (92/150)
+2026-04-30 02:11:55 [INFO] → ukpga-2012-7 [Version Listing & Inquiry] (prompt 1395 chars)
+2026-04-30 02:12:02 [INFO] ✓ ukpga-2012-7 [Version Listing & Inquiry] (93/150)
+2026-04-30 02:12:03 [INFO] → ukpga-2012-7 [Change Retrieval (e)] (prompt 10267 chars)
+2026-04-30 02:12:16 [INFO] ✓ ukpga-2012-7 [Change Retrieval (e)] (94/150)
+2026-04-30 02:12:17 [INFO] → ukpga-2012-7 [Change Retrieval (i)] (prompt 13088 chars)
+2026-04-30 02:12:34 [INFO] ✓ ukpga-2012-7 [Change Retrieval (i)] (95/150)
+2026-04-30 02:12:34 [INFO] → ukpga-2014-19 [Content Retrieval] (prompt 13455 chars)
+2026-04-30 02:12:43 [INFO] ✓ ukpga-2014-19 [Content Retrieval] (96/150)
+2026-04-30 02:12:44 [INFO] → ukpga-2014-19 [Version-Specific Content Retrieval] (prompt 13677 chars)
+2026-04-30 02:12:56 [INFO] ✓ ukpga-2014-19 [Version-Specific Content Retrieval] (97/150)
+2026-04-30 02:12:56 [INFO] → ukpga-2014-19 [Version Listing & Inquiry] (prompt 1381 chars)
+2026-04-30 02:13:06 [INFO] ✓ ukpga-2014-19 [Version Listing & Inquiry] (98/150)
+2026-04-30 02:13:06 [INFO] → ukpga-2014-19 [Change Retrieval (e)] (prompt 10233 chars)
+2026-04-30 02:13:20 [INFO] ✓ ukpga-2014-19 [Change Retrieval (e)] (99/150)
+2026-04-30 02:13:21 [INFO] → ukpga-2014-19 [Change Retrieval (i)] (prompt 15094 chars)
+2026-04-30 02:13:40 [INFO] ✓ ukpga-2014-19 [Change Retrieval (i)] (100/150)
+2026-04-30 02:13:41 [INFO] → ukpga-2006-41 [Content Retrieval] (prompt 13472 chars)
+2026-04-30 02:13:49 [INFO] ✓ ukpga-2006-41 [Content Retrieval] (101/150)
+2026-04-30 02:13:50 [INFO] → ukpga-2006-41 [Version-Specific Content Retrieval] (prompt 13694 chars)
+2026-04-30 02:14:04 [INFO] ✓ ukpga-2006-41 [Version-Specific Content Retrieval] (102/150)
+2026-04-30 02:14:04 [INFO] → ukpga-2006-41 [Version Listing & Inquiry] (prompt 1396 chars)
+2026-04-30 02:14:09 [INFO] ✓ ukpga-2006-41 [Version Listing & Inquiry] (103/150)
+2026-04-30 02:14:10 [INFO] → ukpga-2006-41 [Change Retrieval (e)] (prompt 10239 chars)
+2026-04-30 02:14:17 [INFO] ✓ ukpga-2006-41 [Change Retrieval (e)] (104/150)
+2026-04-30 02:14:18 [INFO] → ukpga-2006-41 [Change Retrieval (i)] (prompt 15088 chars)
+2026-04-30 02:14:29 [INFO] ✓ ukpga-2006-41 [Change Retrieval (i)] (105/150)
+2026-04-30 02:14:29 [INFO] → ukpga-2002-32 [Content Retrieval] (prompt 13450 chars)
+2026-04-30 02:14:39 [INFO] ✓ ukpga-2002-32 [Content Retrieval] (106/150)
+2026-04-30 02:14:40 [INFO] → ukpga-2002-32 [Version-Specific Content Retrieval] (prompt 13672 chars)
+2026-04-30 02:14:55 [INFO] ✓ ukpga-2002-32 [Version-Specific Content Retrieval] (107/150)
+2026-04-30 02:14:56 [INFO] → ukpga-2002-32 [Version Listing & Inquiry] (prompt 1382 chars)
+2026-04-30 02:15:05 [INFO] ✓ ukpga-2002-32 [Version Listing & Inquiry] (108/150)
+2026-04-30 02:15:05 [INFO] → ukpga-2002-32 [Change Retrieval (e)] (prompt 10209 chars)
+2026-04-30 02:15:19 [INFO] ✓ ukpga-2002-32 [Change Retrieval (e)] (109/150)
+2026-04-30 02:15:19 [INFO] → ukpga-2002-32 [Change Retrieval (i)] (prompt 15073 chars)
+2026-04-30 02:15:39 [INFO] ✓ ukpga-2002-32 [Change Retrieval (i)] (110/150)
+2026-04-30 02:15:40 [INFO] → ukpga-2004-34 [Content Retrieval] (prompt 13446 chars)
+2026-04-30 02:15:51 [INFO] ✓ ukpga-2004-34 [Content Retrieval] (111/150)
+2026-04-30 02:15:51 [INFO] → ukpga-2004-34 [Version-Specific Content Retrieval] (prompt 13668 chars)
+2026-04-30 02:16:06 [INFO] ✓ ukpga-2004-34 [Version-Specific Content Retrieval] (112/150)
+2026-04-30 02:16:06 [INFO] → ukpga-2004-34 [Version Listing & Inquiry] (prompt 1380 chars)
+2026-04-30 02:16:16 [INFO] ✓ ukpga-2004-34 [Version Listing & Inquiry] (113/150)
+2026-04-30 02:16:16 [INFO] → ukpga-2004-34 [Change Retrieval (e)] (prompt 10270 chars)
+2026-04-30 02:16:27 [INFO] ✓ ukpga-2004-34 [Change Retrieval (e)] (114/150)
+2026-04-30 02:16:27 [INFO] → ukpga-2004-34 [Change Retrieval (i)] (prompt 14938 chars)
+2026-04-30 02:16:38 [INFO] ✓ ukpga-2004-34 [Change Retrieval (i)] (115/150)
+2026-04-30 02:16:39 [INFO] → ukpga-2014-22 [Content Retrieval] (prompt 13508 chars)
+2026-04-30 02:16:54 [INFO] ✓ ukpga-2014-22 [Content Retrieval] (116/150)
+2026-04-30 02:16:54 [INFO] → ukpga-2014-22 [Version-Specific Content Retrieval] (prompt 13730 chars)
+2026-04-30 02:17:11 [INFO] ✓ ukpga-2014-22 [Version-Specific Content Retrieval] (117/150)
+2026-04-30 02:17:11 [INFO] → ukpga-2014-22 [Version Listing & Inquiry] (prompt 1384 chars)
+2026-04-30 02:17:22 [INFO] ✓ ukpga-2014-22 [Version Listing & Inquiry] (118/150)
+2026-04-30 02:17:22 [INFO] → ukpga-2014-22 [Change Retrieval (e)] (prompt 10215 chars)
+2026-04-30 02:17:30 [INFO] ✓ ukpga-2014-22 [Change Retrieval (e)] (119/150)
+2026-04-30 02:17:31 [INFO] → ukpga-2014-22 [Change Retrieval (i)] (prompt 15085 chars)
+2026-04-30 02:17:43 [INFO] ✓ ukpga-2014-22 [Change Retrieval (i)] (120/150)
+2026-04-30 02:17:43 [INFO] → ukpga-1994-26 [Content Retrieval] (prompt 13456 chars)
+2026-04-30 02:17:57 [INFO] ✓ ukpga-1994-26 [Content Retrieval] (121/150)
+2026-04-30 02:17:58 [INFO] → ukpga-1994-26 [Version-Specific Content Retrieval] (prompt 13680 chars)
+2026-04-30 02:18:10 [INFO] ✓ ukpga-1994-26 [Version-Specific Content Retrieval] (122/150)
+2026-04-30 02:18:11 [INFO] → ukpga-1994-26 [Version Listing & Inquiry] (prompt 1384 chars)
+2026-04-30 02:18:21 [INFO] ✓ ukpga-1994-26 [Version Listing & Inquiry] (123/150)
+2026-04-30 02:18:21 [INFO] → ukpga-1994-26 [Change Retrieval (e)] (prompt 10208 chars)
+2026-04-30 02:18:32 [INFO] ✓ ukpga-1994-26 [Change Retrieval (e)] (124/150)
+2026-04-30 02:18:32 [INFO] → ukpga-1994-26 [Change Retrieval (i)] (prompt 14284 chars)
+2026-04-30 02:18:43 [INFO] ✓ ukpga-1994-26 [Change Retrieval (i)] (125/150)
+2026-04-30 02:18:43 [INFO] → ukpga-2003-21 [Content Retrieval] (prompt 13398 chars)
+2026-04-30 02:18:56 [INFO] ✓ ukpga-2003-21 [Content Retrieval] (126/150)
+2026-04-30 02:18:56 [INFO] → ukpga-2003-21 [Version-Specific Content Retrieval] (prompt 13620 chars)
+2026-04-30 02:19:04 [INFO] ✓ ukpga-2003-21 [Version-Specific Content Retrieval] (127/150)
+2026-04-30 02:19:05 [INFO] → ukpga-2003-21 [Version Listing & Inquiry] (prompt 1387 chars)
+2026-04-30 02:19:14 [INFO] ✓ ukpga-2003-21 [Version Listing & Inquiry] (128/150)
+2026-04-30 02:19:15 [INFO] → ukpga-2003-21 [Change Retrieval (e)] (prompt 10230 chars)
+2026-04-30 02:19:23 [INFO] ✓ ukpga-2003-21 [Change Retrieval (e)] (129/150)
+2026-04-30 02:19:24 [INFO] → ukpga-2003-21 [Change Retrieval (i)] (prompt 15112 chars)
+2026-04-30 02:19:44 [INFO] ✓ ukpga-2003-21 [Change Retrieval (i)] (130/150)
+2026-04-30 02:19:44 [INFO] → ukpga-1996-18 [Content Retrieval] (prompt 13465 chars)
+2026-04-30 02:19:50 [INFO] ✓ ukpga-1996-18 [Content Retrieval] (131/150)
+2026-04-30 02:19:51 [INFO] → ukpga-1996-18 [Version-Specific Content Retrieval] (prompt 13687 chars)
+2026-04-30 02:19:58 [INFO] ✓ ukpga-1996-18 [Version-Specific Content Retrieval] (132/150)
+2026-04-30 02:19:59 [INFO] → ukpga-1996-18 [Version Listing & Inquiry] (prompt 1390 chars)
+2026-04-30 02:20:03 [INFO] ✓ ukpga-1996-18 [Version Listing & Inquiry] (133/150)
+2026-04-30 02:20:04 [INFO] → ukpga-1996-18 [Change Retrieval (e)] (prompt 10252 chars)
+2026-04-30 02:20:12 [INFO] ✓ ukpga-1996-18 [Change Retrieval (e)] (134/150)
+2026-04-30 02:20:13 [INFO] → ukpga-1996-18 [Change Retrieval (i)] (prompt 15142 chars)
+2026-04-30 02:20:25 [INFO] ✓ ukpga-1996-18 [Change Retrieval (i)] (135/150)
+2026-04-30 02:20:25 [INFO] → ukpga-1998-11 [Content Retrieval] (prompt 13495 chars)
+2026-04-30 02:20:34 [INFO] ✓ ukpga-1998-11 [Content Retrieval] (136/150)
+2026-04-30 02:20:35 [INFO] → ukpga-1998-11 [Version-Specific Content Retrieval] (prompt 13717 chars)
+2026-04-30 02:20:43 [INFO] ✓ ukpga-1998-11 [Version-Specific Content Retrieval] (137/150)
+2026-04-30 02:20:43 [INFO] → ukpga-1998-11 [Version Listing & Inquiry] (prompt 1388 chars)
+2026-04-30 02:20:48 [INFO] ✓ ukpga-1998-11 [Version Listing & Inquiry] (138/150)
+2026-04-30 02:20:49 [INFO] → ukpga-1998-11 [Change Retrieval (e)] (prompt 8085 chars)
+2026-04-30 02:20:57 [INFO] ✓ ukpga-1998-11 [Change Retrieval (e)] (139/150)
+2026-04-30 02:20:58 [INFO] → ukpga-1998-11 [Change Retrieval (i)] (prompt 10358 chars)
+2026-04-30 02:21:21 [INFO] ✓ ukpga-1998-11 [Change Retrieval (i)] (140/150)
+2026-04-30 02:21:22 [INFO] → ukpga-2007-15 [Content Retrieval] (prompt 13513 chars)
+2026-04-30 02:21:33 [INFO] ✓ ukpga-2007-15 [Content Retrieval] (141/150)
+2026-04-30 02:21:34 [INFO] → ukpga-2007-15 [Version-Specific Content Retrieval] (prompt 13735 chars)
+2026-04-30 02:21:55 [INFO] ✓ ukpga-2007-15 [Version-Specific Content Retrieval] (142/150)
+2026-04-30 02:21:56 [INFO] → ukpga-2007-15 [Version Listing & Inquiry] (prompt 1386 chars)
+2026-04-30 02:22:01 [INFO] ✓ ukpga-2007-15 [Version Listing & Inquiry] (143/150)
+2026-04-30 02:22:01 [INFO] → ukpga-2007-15 [Change Retrieval (e)] (prompt 10243 chars)
+2026-04-30 02:22:15 [INFO] ✓ ukpga-2007-15 [Change Retrieval (e)] (144/150)
+2026-04-30 02:22:16 [INFO] → ukpga-2007-15 [Change Retrieval (i)] (prompt 12108 chars)
+2026-04-30 02:22:23 [INFO] ✓ ukpga-2007-15 [Change Retrieval (i)] (145/150)
+2026-04-30 02:22:24 [INFO] Done. generated=145, skipped=0, failed=0, target=150

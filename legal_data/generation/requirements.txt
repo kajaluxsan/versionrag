@@ -1,0 +1,2 @@
+# No external Python deps — script uses stdlib only (subprocess, csv, json, re, difflib, ...).
+# Requires the `claude` CLI on PATH (Claude Code).
